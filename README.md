@@ -16,4 +16,5 @@ For More Details KIndly Click ==> [Sign up and join us at Google Developer Stude
 
 **WRITE CODE AND HAVE FUN**
 
+We are going to migrate all this to the organisation web page https://github.com/gsdc-bugema
 
